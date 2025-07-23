@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+#Ignore database config
+src/main/resources/application.properties
